@@ -18,7 +18,7 @@ if (mysqli_connect_errno() ) {
     <title>Biertjes</title>
 </head>
 <body>
-    Biertjes test
+    Biertjes test hola
     <?php echo $user
     ?>
 </body>
