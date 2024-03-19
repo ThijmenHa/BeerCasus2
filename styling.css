@@ -1,5 +1,7 @@
 .datatable {
+    position: center;
     table {
+        
         border-collapse: collapse;
         width: 100%;
     }
@@ -14,4 +16,8 @@
     th {
         background-color: #dddddd;
     }
+}
+
+.container { 
+    text-align: center;
 }
